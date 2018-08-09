@@ -159,7 +159,6 @@ hr {
 	text-decoration: none;
 	animation: pulsing 2s infinite;
 	font-weight: 700;
-	filter: brightness(1.2) contrast(1.2);
 }
 
 .portfolio {
